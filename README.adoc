@@ -1,0 +1,7 @@
+= Spock Logo
+
+Repository for the Spock Logo.
+
+The logo was created by created https://github.com/Ayse-Merve[Ayşe Altınsoy] (@AltinsoyAyse).
+
+image::Spock-Brand-Materials/logos/primary/spock-main-logo.png[Spock Logo]
